@@ -101,7 +101,7 @@ body{
     display: flex;
     justify-content: center;
     background-color: white;
-    width: 1500px;
+    width: 100%;
 }
 .cards{
     width:300px;
